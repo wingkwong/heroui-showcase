@@ -113,7 +113,7 @@ export default function App() {
         <div className="flex-1">
           <h1 className="text-3xl font-bold mb-8">HeroUI Component Showcase</h1>
           <p className="text-default-600 mb-8">
-            This page showcases all the components available in HeroUI v2.8.0-beta.13.
+            This page showcases all the components available in HeroUI v2.8.10.
             Browse through the different sections to see examples of each component with various props and configurations.
           </p>
 
